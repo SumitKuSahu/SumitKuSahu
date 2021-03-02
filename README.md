@@ -6,4 +6,4 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: Mobile apps are used more than websites.
 
-<img src="https://github-readme-stats.vercel.app/api?username=SumitKuSahu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=SumitKuSahu&&show_icons=true&title_color=00303f&icon_color=025955&text_color=cdac81&bg_color=f5f4f4">
